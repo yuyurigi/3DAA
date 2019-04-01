@@ -1,4 +1,6 @@
 # 3DAA
+AA製作者の名無しさん、ありがとう……<br>
+<br>
 フォントは<a href = "http://monafont.sourceforge.net">モナーフォント</a>を使いました。<br>
 アドオンに<a href = "https://github.com/kentaroid/ofxTrueTypeFontUL2">ofxTrueTypeFontUL2</a>を使っています。<br?
 <br>
